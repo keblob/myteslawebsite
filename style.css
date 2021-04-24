@@ -1,0 +1,19 @@
+h1 {
+    font-size: 50px; 
+    color: coral;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+}
+
+#cars {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+/* w3schools.com/cssref */ 
